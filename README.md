@@ -1,1 +1,1 @@
-[Live](https://menu-rt.netlify.app/)
+https://menu-rt.netlify.app/
